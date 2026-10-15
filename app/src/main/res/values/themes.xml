@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Volcanes" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/lava_naranja</item>
+        <item name="colorPrimaryVariant">@color/lava_rojo</item>
+        <item name="android:statusBarColor">@color/lava_negro</item>
+        <item name="android:navigationBarColor">@color/lava_negro</item>
+        <item name="android:windowBackground">@color/lava_negro</item>
+    </style>
+</resources>

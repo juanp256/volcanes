@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lava_negro">#FF120806</color>
+    <color name="lava_rojo">#FFB3200F</color>
+    <color name="lava_naranja">#FFFF6B1A</color>
+    <color name="lava_amarillo">#FFFFC24A</color>
+</resources>
